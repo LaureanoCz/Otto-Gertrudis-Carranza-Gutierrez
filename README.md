@@ -1,6 +1,5 @@
 <h1 align= "center">| Otto Gertrudis Carranza Gutierrez - Proyecto Robotica |</h1>
-<h3 align= "center">🛠 Proyecto en construccion 🛠</h3>
-<p align= "center">Descripcion en proceso</p>
+<p align= "center">robot multifuncional diseñado para realizar movimientos como saltar, bailar, caminar y girar.</p>
 
 ### Integrantes:
 - **Araceli Valfredo:**
