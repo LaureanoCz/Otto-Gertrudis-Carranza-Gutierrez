@@ -5,14 +5,14 @@
 
 ## Componentes Utilizados
 ### Electrónicos
-- Arduino Uno:
-- Shield para Arduino Uno: 
-- Sensor Ultrasonico HC-SR04: 
-- 4 Servomotores 180º: 
-- Buzzer de 5V: 
-- Cables Dupont HH (6 unidades):
-- Portapilas para 4 pilas AA: 
-- Switch o Interruptor de Encendido:
+- Arduino Uno
+- Shield para Arduino Uno
+- Sensor Ultrasonico HC-SR04
+- 4 Servomotores 180º
+- Buzzer de 5V
+- Cables Dupont HH (6 unidades)
+- Portapilas para 4 pilas AA
+- Switch o Interruptor de Encendido
 - Estructura de Cartón
 
 ### Piezas de policarbonato
